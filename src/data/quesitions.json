@@ -1,0 +1,143 @@
+[
+  {
+    "questionText": " Who developed Python Programming Language?",
+    "answerOption": [
+      { "id": "A", "option": "Wick van Rossum", "isTure": false },
+      { "id": "B", "option": " Rasmus Lerdorf", "isTure": false },
+      { "id": "C", "option": " Guido van Rossum", "isTure": true },
+      { "id": "D", "option": "Niene Stom", "isTure": false }
+    ]
+  },
+  {
+    "questionText": "Which of the following is the correct extension of the Python file?",
+    "answerOption": [
+      { "id": "A", "option": " .python", "isTure": false },
+      { "id": "B", "option": ".pl", "isTure": false },
+      { "id": "C", "option": ".py", "isTure": true },
+      { "id": "D", "option": ".p", "isTure": false }
+    ]
+  },
+  {
+    "questionText": "All keywords in Python are in ___",
+    "answerOption": [
+      { "id": "A", "option": "Capitalized", "isTure": false },
+      { "id": "B", "option": "lower case", "isTure": false },
+      { "id": "C", "option": "UPPER CASE", "isTure": false },
+      { "id": "D", "option": "None of the mentioned", "isTure": true }
+    ]
+  },
+  {
+    "questionText": "What will be the value of the following Python expression?\n 4 + 3 % 5",
+    "answerOption": [
+      { "id": "A", "option": "7", "isTure": true },
+      { "id": "B", "option": "2", "isTure": false },
+      { "id": "C", "option": "6", "isTure": false },
+      { "id": "D", "option": "1", "isTure": false }
+    ]
+  },
+  {
+    "questionText": "Which of the following functions can help us to find the version of python that we are currently working on?",
+    "answerOption": [
+      { "id": "A", "option": "sys.version(1)", "isTure": true },
+      { "id": "B", "option": "sys.version(0)", "isTure": false },
+      { "id": "C", "option": "sys.version()", "isTure": false },
+      { "id": "D", "option": "sys.version", "isTure": false }
+    ]
+  },
+  {
+    "questionText": "Which module in the python standard library parses options received from the command line?",
+    "answerOption": [
+      { "id": "A", "getarg": "-4", "isTure": false },
+      { "id": "B", "getopt": "-3", "isTure": true },
+      { "id": "C", "main": "2", "isTure": false },
+      { "id": "D", "os": "false", "isTure": false }
+    ]
+  },
+  {
+    "questionText": "Which of the following statements is used to create an empty set in Python?",
+    "answerOption": [
+      { "id": "A", "option": " ( )", "isTure": false },
+      { "id": "B", "option": "[ ]", "isTure": false },
+      { "id": "C", "option": "{ }", "isTure": false },
+      { "id": "D", "option": "set()", "isTure": true }
+    ]
+  },
+  {
+    "questionText": "To add a new element to a list we use which Python command?",
+    "answerOption": [
+      { "id": "A", "option": "list1.addEnd(5)", "isTure": false },
+      { "id": "B", "option": "list1.addLast(5)", "isTure": false },
+      { "id": "C", "option": "list1.append(5)", "isTure": true },
+      { "id": "D", "option": "list1.add(5)", "isTure": false }
+    ]
+  },
+  {
+    "questionText": "What are the two main types of functions in Python?",
+    "answerOption": [
+      { "id": "A", "option": "System function", "isTure": false },
+      { "id": "B", "option": "Custom function", "isTure": false },
+      {
+        "id": "C",
+        "option": "Built-in function & User defined function",
+        "isTure": true
+      },
+      { "id": "D", "option": "User function", "isTure": false }
+    ]
+  },
+  {
+    "questionText": "What is output of print(math.pow(3, 2))?",
+    "answerOption": [
+      { "id": "A", "option": "9.0", "isTure": true },
+      { "id": "B", "option": "None", "isTure": false },
+      { "id": "C", "option": "9", "isTure": false },
+      { "id": "D", "option": "None", "isTure": false }
+    ]
+  },
+  {
+    "questionText": " All keywords in Python are in ___",
+    "answerOption": [
+      { "id": "A", "option": "Capitalized", "isTure": false },
+      { "id": "B", "option": "lower case", "isTure": false },
+      { "id": "C", "option": "UPPER CASE", "isTure": false },
+      { "id": "D", "option": "None of the mentioned ", "isTure": true }
+    ]
+  },
+  {
+    "questionText": "What is the maximum possible length of an identifier in Python?",
+    "answerOption": [
+      { "id": "A", "option": "79 characters", "isTure": false },
+      { "id": "B", "option": "31 characters", "isTure": false },
+      { "id": "C", "option": "63 characters", "isTure": false },
+      { "id": "D", "option": "none ", "isTure": true }
+    ]
+  },
+  {
+    "questionText": "What will be the value of the following Python expression? \\n 4 + 3 % 5",
+    "answerOption": [
+      { "id": "A", "option": "7", "isTure": true },
+      { "id": "B", "option": "2 characters", "isTure": false },
+      { "id": "C", "option": "4 characters", "isTure": false },
+      { "id": "D", "option": "1 ", "isTure": false }
+    ]
+  },
+  {
+    "questionText": "Which of the following is used to define a block of code in Python language?",
+    "answerOption": [
+      { "id": "A", "option": "Indentation", "isTure": true },
+      { "id": "B", "option": "Key", "isTure": false },
+      { "id": "C", "option": "Brackets", "isTure": false },
+      { "id": "D", "option": "All of the mentioned", "isTure": false }
+    ]
+  },
+  {
+    "questionText": "Who is known as father of Java Programming Language??",
+    "answerOption": [
+      { "id": "A", "option": "James Gosling", "isTure": true },
+      { "id": "B", "option": "M. P Java", "isTure": false },
+      { "id": "C", "option": "Charel Babbage", "isTure": false },
+      { "id": "D", "option": "Blais PAscal ", "isTure": false }
+    ]
+  }
+
+    
+]
